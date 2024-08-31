@@ -1,9 +1,9 @@
 # Mushroom Classification
 
-Attribute Information: 
+# Attribute Information: 
 
-cap-shape
-cap-surface
+**cap-shape
+**cap-surface
 cap-color
 bruises
 odor
