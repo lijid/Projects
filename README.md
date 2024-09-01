@@ -1,3 +1,3 @@
 # Projects
 
-All the projects related to machine learning are consolidated in this !
+Projects related to machine learning can be found here !
