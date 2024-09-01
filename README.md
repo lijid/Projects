@@ -6,14 +6,14 @@ The Pulsar Star dataset typically contains several thousand observations, each r
 ## Features
 The dataset generally includes the following features:
 
-Mean of the Integrated Profile: The mean value of the integrated profile.
-Standard Deviation of the Integrated Profile: The standard deviation of the integrated profile.
-Excess Kurtosis of the Integrated Profile: The kurtosis of the integrated profile.
-Skewness of the Integrated Profile: The skewness of the integrated profile.
-Mean of the DM-SNR Curve: The mean value of the dispersion measure signal-to-noise ratio curve.
-Standard Deviation of the DM-SNR Curve: The standard deviation of the dispersion measure signal-to-noise ratio curve.
-Excess Kurtosis of the DM-SNR Curve: The kurtosis of the dispersion measure signal-to-noise ratio curve.
-Skewness of the DM-SNR Curve: The skewness of the dispersion measure signal-to-noise ratio curve.
+* Mean of the Integrated Profile: The mean value of the integrated profile.
+* Standard Deviation of the Integrated Profile: The standard deviation of the integrated profile.
+* Excess Kurtosis of the Integrated Profile: The kurtosis of the integrated profile.
+* Skewness of the Integrated Profile: The skewness of the integrated profile.
+* Mean of the DM-SNR Curve: The mean value of the dispersion measure signal-to-noise ratio curve.
+* Standard Deviation of the DM-SNR Curve: The standard deviation of the dispersion measure signal-to-noise ratio curve.
+* Excess Kurtosis of the DM-SNR Curve: The kurtosis of the dispersion measure signal-to-noise ratio curve.
+* Skewness of the DM-SNR Curve: The skewness of the dispersion measure signal-to-noise ratio curve.
 
 ## Target Variable
-target_class: This binary variable indicates whether the candidate signal is a pulsar (1) or not (0).
+* target_class: This binary variable indicates whether the candidate signal is a pulsar (1) or not (0).
